@@ -1,1 +1,6 @@
-ECHO is on.
+// Requirements
+
+    1- HTML5
+    2- CSS3 / SASS "git clone https://github.com/AmrKhaleds/sass-structure.git" / BOOTSTRAP 5
+    3- JS / DOM
+    4- PHP / LARAVEL8
