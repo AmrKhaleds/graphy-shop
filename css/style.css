@@ -10303,4 +10303,24 @@ textarea {
 body {
   height: 4000px;
 }
+
+.navbar-main {
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 120px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  transition: 0.5s ease-in-out;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  height: 50px;
+  background-color: #fff;
+  transition: 0.5s ease-in-out;
+}
 /*# sourceMappingURL=style.css.map */
