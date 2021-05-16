@@ -1,0 +1,2 @@
+# Ignoer node_modules => to Download Package type in cmd "npm install"
+node_modules/
